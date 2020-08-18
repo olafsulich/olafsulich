@@ -4,7 +4,7 @@
 
 I'm 19 years old, technical student. I build **open-source** projects and write about frontend technologies on <a href="https://www.frontlive.pl/">frontlive.pl</a>. I'm in love with JAMStack, ReactJS and its ecosystem 💙. Still learning and discovering new stuff!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
 
 ## Technologies
