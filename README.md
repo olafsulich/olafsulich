@@ -58,3 +58,8 @@ I'm 19 years old, technical student. I build **open-source** projects and write 
 <!--END_SECTION:activity-->
 
 ---
+
+## 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
