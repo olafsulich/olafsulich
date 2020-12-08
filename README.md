@@ -1,4 +1,4 @@
-<img width="100%" src='https://i.ibb.co/NxnhG5r/main.png" alt="Olaf with computer' />
+<img width="100%" src='https://i.ibb.co/PCFsM4t/portfolio.png" alt="Olaf with computer' />
 
 ## 🙍 About me
 
