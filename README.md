@@ -33,6 +33,9 @@ I'm 19 years old, technical student. I build **open-source** projects and write 
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/olafsulich/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/olafsulich/)
 
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)](https://github.com/olafsulich/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL)](https://github.com/olafsulich/)
+
 ## 📕 Popular posts
 
 - <a href="https://www.frontlive.pl/css-houdini/"><img align="center" width="20" height="20" src='https://www.frontlive.pl/static/695197f9845f4e2da7a3da0e77e784f4/4148e/css.png' />
