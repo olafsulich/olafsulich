@@ -44,10 +44,10 @@ I'm 19 years old, technical student. I build **open-source** projects and write 
 - <a href="https://www.frontlive.pl/javascript-es10/">
   JavaScript - ES6 to już przeżytek, nastała era ES2019!</a>
 
-* <a href="https://www.frontlive.pl/typescript-react/">
+- <a href="https://www.frontlive.pl/typescript-react/">
   TypeScript - React, Redux i Styled Components
   </a>
 
-* <a href="https://www.frontlive.pl/readme-github/">
+- <a href="https://www.frontlive.pl/readme-github/">
   README na Githubie - robisz to źle!
   </a>
