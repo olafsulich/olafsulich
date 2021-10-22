@@ -1,8 +1,8 @@
-<img width="100%" src='https://i.ibb.co/PCFsM4t/portfolio.png" alt="Olaf with computer' />
+<img width="100%" src='https://user-images.githubusercontent.com/46969484/138513008-73afe644-8f31-45b0-aa9f-412a06558c8b.png" alt="" />
 
 ## 🙍 About me
 
-I'm 19 years old, technical student. I build **open-source** projects and write about frontend technologies on <a href="https://www.frontlive.pl/">frontlive.pl</a>. I'm in love with JAMStack, ReactJS and its ecosystem 💙. Still learning and discovering new stuff!
+I'm 20 years old, technical student. I build **open-source** projects and write about frontend technologies on <a href="https://www.frontlive.pl/">frontlive.pl</a>. I'm in love with JAMStack, ReactJS and its ecosystem 💙. Still learning and discovering new stuff!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/olaf-sulich/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
